@@ -7,7 +7,7 @@
 </a>
 </div>
 <br><br/>
-### Languages and tools:
+#### Languages and tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
@@ -23,6 +23,11 @@ Also, I loved studying statistics, which some years later brought me to the Data
 - :bandeira_quadriculada: I’m looking for help with practing python for machine learning
 - :planeta_com_anéis: **Fun fact**: I love dancing, science, math, puzzles and assembling plastic airplanes and Star Wars ships. :disco_voador:
 - :receptor_telefone: Where you can find me:
+
+ 
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/86257634/150010940-2dce76cf-751e-4354-b526-0a1e3592f76d.gif" width=300 />
+
 <div>
 <a href="https://www.linkedin.com/in/carla-regina-b-jagosich/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://public.tableau.com/app/profile/carla.regina7813" target="_blank"><img src="https://img.shields.io/badge/Tableau-F8F8FF?style=for-the-badge&logo=tableau&logoColor=blue" target="_blank"></a>
